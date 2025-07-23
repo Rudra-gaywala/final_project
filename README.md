@@ -15,9 +15,9 @@ This is a Python command-line tool that allows users to load, explore, clean, an
    
 📈 Sample Visualizations :
 
-Bar Chart – Count of Survived vs Not Survived
-Histogram – Fare distribution
-Scatter Plot – Age vs Fare colored by survival
+Bar Chart – Count of Survived vs Not Survived           
+Histogram – Fare distribution                                      
+Scatter Plot – Age vs Fare colored by survival                             
 
 🙋 Author :
 
